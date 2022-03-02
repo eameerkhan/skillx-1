@@ -1,2 +1,3 @@
 # This is our first repo under skillx program
-This is created by me to edit 
+Deleted this file 
+Adding 3rd line for test
